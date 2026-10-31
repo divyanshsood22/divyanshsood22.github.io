@@ -13,11 +13,11 @@ A simple and clutter-free personal portfolio website that highlights my experien
 <br>
 
 ## ▫️Tech Stack
-**FrontEnd :** HTML, CSS
-**BackEnd :** JavaScript
-**Hosting :** Netlify
-**Domain :** name.com
-**DNS Protection:** Cloudflare
+**FrontEnd :** HTML, CSS <br>
+**BackEnd :** JavaScript <br>
+**Hosting :** Github Pages <br>
+**Domain :** github.io <br>
+**DNS Protection:** Cloudflare <br>
 
 <br>
 
